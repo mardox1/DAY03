@@ -1,0 +1,5 @@
+
+a), var image = document.getElementById('hplogo');
+    image.width = 2;
+b), var logo = document.getElementById('aLogo')
+    logo.src = http://www.walldevil.com/wallpapers/a85/triangles-geometric-wallpaper-forms-geometry-abstract-minimalistic.jpg
